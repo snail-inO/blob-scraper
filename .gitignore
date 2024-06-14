@@ -1,0 +1,13 @@
+# env
+.env
+venv
+
+# data
+data
+test_data
+
+#logs
+logs
+
+#cache
+__pycache__
